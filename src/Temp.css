@@ -1,0 +1,16 @@
+#out{
+    margin-left: 50%;
+    width: 400px;
+    margin-top: 50px;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgba(216, 219, 219, 0.5);
+}
+label h2{
+    margin-left: 10px;
+}
+input{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
